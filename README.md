@@ -54,8 +54,10 @@ cd Activity-EBAC-Pokemon
 ## 🎯 **Future Improvements**
 Some ideas for future improvements:
 
-Add JavaScript interactivity to enhance user experience.
+Add JavaScript interactivity to enhance user experience. 
+
 Implement Pokémon API integration to fetch real-time data.
+
 Include dark mode toggle for better UI customization.
 
 ---
@@ -64,9 +66,13 @@ Include dark mode toggle for better UI customization.
 If you’d like to contribute:
 
 Fork the repository.
+
 Create a branch for your changes (git checkout -b feature/my-feature).
+
 Commit your updates (git commit -m 'Adding a new feature').
+
 Push the branch (git push origin feature/my-feature).
+
 Open a Pull Request.
 
 ---
