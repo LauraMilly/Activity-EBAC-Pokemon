@@ -3,7 +3,7 @@
 This is a **Landing Page about Pokémon**, developed as part of the **EBAC** course.  
 The website features an **interactive and responsive design**, highlighting iconic Pokémon characters.
 
-## 📸 Screenshot![Pokemon-](https://github.com/user-attachments/assets/b32463fb-c578-4f36-8a6a-849aefbbb793)
+## 📸 [Pokemon-](https://github.com/user-attachments/assets/b32463fb-c578-4f36-8a6a-849aefbbb793)
 
 
 
@@ -38,5 +38,8 @@ The website features an **interactive and responsive design**, highlighting icon
 Developed by [Laura Souza].
 📧 Email: laauramirellydesouza@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/laura-souza-4a729b252/
+
+##📜 License
+This project was developed for educational purposes in the EBAC course. Feel free to explore and modify it. 🚀
 
 
