@@ -1,15 +1,19 @@
-🚀 Pokémon Themed Landing Page
+#🚀 **Pokémon Themed Landing Page**
 This project is a Pokémon-themed landing page created as part of an activity for the EBAC course. It showcases different Pokémon, their types, and their evolution stages in a visually appealing and interactive way.
 
-📌 Technologies Used
+---
+
+## 📌 **Technologies Used**
 This project is built using:
 
-HTML5 → Structure of the page.
-CSS3 → Styling and responsiveness.
-Bootstrap → For a responsive and modern design.
-Custom Fonts & Images → Enhancing the Pokémon experience.
+- **HTML5** → Structure of the page.
+- **CSS3** → Styling and responsiveness.
+- **Bootstrap** → For a responsive and modern design.
+- **Custom Fonts & Images** → Enhancing the Pokémon experience.
 
-🎨 Features & Design
+---
+
+## 🎨 **Features & Design**
 The landing page includes:
 
 ✅ Pokémon cards with images and details.
@@ -18,7 +22,7 @@ The landing page includes:
 ✅ Custom Pokémon fonts for an authentic look.
 ✅ Interactive elements for better user experience.
 
-📂 Project Structure
+## 📂 **Project Structure**
 Activity-EBAC-Pokemon/
 │── index.html            # Main page
 │── styles.css            # Styling file
@@ -30,40 +34,48 @@ Activity-EBAC-Pokemon/
 │   ├── img/              # Pokémon images and type icons
 │── README.md             # Project documentation
 
-🔧 How to Run the Project?
+## 🔧 How to Run the Project?
 
 Deploy: https://atividade-ebac-tau.vercel.app/
 
 or
 
-1️⃣ Clone the repository
+-1️⃣ Clone the repository
 git clone https://github.com/LauraMilly/Activity-EBAC-Pokemon.git
 
-2️⃣ Navigate to the project directory
+-2️⃣ Navigate to the project directory
 cd Activity-EBAC-Pokemon
 
-3️⃣ Open the index.html file in your browser
+-3️⃣ Open the index.html file in your browser
 
-🎯 Future Improvements
+---
+
+## 🎯 **Future Improvements**
 Some ideas for future improvements:
 
 Add JavaScript interactivity to enhance user experience.
 Implement Pokémon API integration to fetch real-time data.
 Include dark mode toggle for better UI customization.
-🤝 Contribution
+
+---
+
+🤝 **Contribution**
 If you’d like to contribute:
 
-Fork the repository.
-Create a branch for your changes (git checkout -b feature/my-feature).
-Commit your updates (git commit -m 'Adding a new feature').
-Push the branch (git push origin feature/my-feature).
-Open a Pull Request.
-📜 License
+-Fork the repository.
+-Create a branch for your changes (git checkout -b feature/my-feature).
+-Commit your updates (git commit -m 'Adding a new feature').
+-Push the branch (git push origin feature/my-feature).
+-Open a Pull Request.
+
+---
+
+## 📜 **License**
 This project is licensed under the MIT License. Feel free to use and modify it.
 
-📬 Contact
+## 📬 **Contact**
 For any questions or suggestions, feel free to reach out:
 
-📧 Email: laauramirellydesouza@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/laura-souza-4a729b252/
-🐙 GitHub: @LauraMilly
+## 📧 **Email**: laauramirellydesouza@gmail.com
+## 🔗 **LinkedIn**: https://www.linkedin.com/in/laura-souza-4a729b252/
+## 🐙 **GitHub**: @LauraMilly
