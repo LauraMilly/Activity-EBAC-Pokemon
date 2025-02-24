@@ -83,6 +83,6 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 ## 📬 **Contact**
 For any questions or suggestions, feel free to reach out:
 
-## 📧 **Email**: laauramirellydesouza@gmail.com
-## 🔗 **LinkedIn**: https://www.linkedin.com/in/laura-souza-4a729b252/
-## 🐙 **GitHub**: @LauraMilly
+## 📧 *Email*: laauramirellydesouza@gmail.com
+## 🔗 *LinkedIn*: https://www.linkedin.com/in/laura-souza-4a729b252/
+## 🐙 *GitHub*: @LauraMilly
