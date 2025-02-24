@@ -24,23 +24,24 @@ The landing page includes:
 
 ## 📂 **Project Structure**
 Activity-EBAC-Pokemon/ 
-│── index.html ## Main page 
 
-│── styles.css ## Styling file 
+│── index.html - Main page 
+
+│── styles.css - Styling file 
 
 │── lib/ 
 
-│ ├── bootstrap.min.css ## Bootstrap styles 
+│ ├── bootstrap.min.css - Bootstrap styles 
 
-│ ├── bootstrap.bundle.min.js ## Bootstrap JS 
+│ ├── bootstrap.bundle.min.js - Bootstrap JS 
 
 │── assets/ 
 
-│ ├── font/ ## Custom Pokémon fonts 
+│ ├── font/ - Custom Pokémon fonts 
 
-│ ├── img/ ## Pokémon images and type icons
+│ ├── img/ - Pokémon images and type icons
 
-│── README.md ## Project documentation
+│── README.md - Project documentation
 
 
 ## 🔧 How to Run the Project?
