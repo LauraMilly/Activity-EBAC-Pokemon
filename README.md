@@ -86,12 +86,12 @@ Open a Pull Request.
 
 ---
 
-## 📜 **License**
+<h4>📜 License</h4>
 This project is licensed under the MIT License. Feel free to use and modify it.
 
-## 📬 **Contact**
+<h4> 📬 Contact</h4>
 For any questions or suggestions, feel free to reach out:
 
-## 📧 *Email*: laauramirellydesouza@gmail.com
-## 🔗 *LinkedIn*: https://www.linkedin.com/in/laura-souza-4a729b252/
-## 🐙 *GitHub*: @LauraMilly
+📧 *Email*: laauramirellydesouza@gmail.com <br>
+🔗 *LinkedIn*: https://www.linkedin.com/in/laura-souza-4a729b252/ <br>
+🐙 *GitHub*: @LauraMilly <br>
