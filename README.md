@@ -1,34 +1,35 @@
-# 🔥 Pokémon Landing Page - Projeto EBAC
+# 🔥 Pokémon Landing Page - EBAC Project
 
-Este é um projeto de uma **Landing Page sobre Pokémon**, desenvolvido como atividade do curso da **EBAC**. O site apresenta um **design interativo e responsivo**, destacando os personagens icônicos do universo Pokémon.
+This is a **Landing Page about Pokémon**, developed as part of the **EBAC** course.  
+The website features an **interactive and responsive design**, highlighting iconic Pokémon characters.
 
-## 
-![Pokemon-](https://github.com/user-attachments/assets/f8489d75-3d64-4c3b-adb3-ae64d1d3937a)
+## 📸 Screenshot![Pokemon-](https://github.com/user-attachments/assets/b32463fb-c578-4f36-8a6a-849aefbbb793)
 
----
 
-## 🚀 Tecnologias Utilizadas
-
-- **HTML5** → Estruturação do conteúdo  
-- **CSS3** → Estilização e responsividade  
-- **JavaScript** → Interatividade (como modais e animações)  
-- **Bootstrap** → Estilização rápida e responsiva  
 
 ---
 
-## 📌 Funcionalidades
+## 🚀 Technologies Used
 
-✅ **Seção Introdução** - Breve apresentação do universo Pokémon  
-✅ **Seção Personagens** - Destaque para Pokémon icônicos como Pikachu, Charizard e Bulbasaur  
-✅ **Botão de Saiba Mais com Modal** - Exibe informações detalhadas sobre os personagens ao clicar  
-✅ **Design Responsivo** - Adaptado para diferentes telas (PC, tablet, celular)  
-✅ **Footer Profissional** - Contém informações e links para redes sociais  
+- **HTML5** → Content structuring  
+- **CSS3** → Styling and responsiveness  
+- **JavaScript** → Interactivity (such as modals and animations)  
+- **Bootstrap** → Quick and responsive styling  
 
 ---
 
-## 📂 Como Rodar o Projeto
+## 📌 Features
 
-1. **Clone este repositório**  
+✅ **Introduction Section** - Brief overview of the Pokémon universe  
+✅ **Characters Section** - Highlights famous Pokémon like Pikachu, Charizard, and Bulbasaur  
+✅ **Learn More Button with Modal** - Displays detailed information about the Pokémon when clicked  
+✅ **Responsive Design** - Optimized for desktops, tablets, and mobile devices  
+✅ **Professional Footer** - Includes social media links and additional information  
+
+---
+
+## 📂 How to Run the Project
+
+1. **Clone this repository**  
    ```bash
-   git clone (https://github.com/LauraMilly/Atividade-EBAC-Pokemon)
-
+   git clone (https://github.com/LauraMilly/Activity-EBAC-Pokemon)
