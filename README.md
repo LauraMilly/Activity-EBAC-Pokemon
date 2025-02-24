@@ -34,6 +34,7 @@ Activity-EBAC-Pokemon/
 │   ├── img/              # Pokémon images and type icons
 │── README.md             # Project documentation
 
+
 ## 🔧 How to Run the Project?
 
 Deploy: https://atividade-ebac-tau.vercel.app/
@@ -62,11 +63,11 @@ Include dark mode toggle for better UI customization.
 🤝 **Contribution**
 If you’d like to contribute:
 
--Fork the repository.
--Create a branch for your changes (git checkout -b feature/my-feature).
--Commit your updates (git commit -m 'Adding a new feature').
--Push the branch (git push origin feature/my-feature).
--Open a Pull Request.
+Fork the repository.
+Create a branch for your changes (git checkout -b feature/my-feature).
+Commit your updates (git commit -m 'Adding a new feature').
+Push the branch (git push origin feature/my-feature).
+Open a Pull Request.
 
 ---
 
