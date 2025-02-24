@@ -39,7 +39,7 @@ Developed by [Laura Souza].
 📧 Email: laauramirellydesouza@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/laura-souza-4a729b252/
 
-##📜 License
+## 📜 License
 This project was developed for educational purposes in the EBAC course. Feel free to explore and modify it. 🚀
 
 
