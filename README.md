@@ -33,3 +33,10 @@ The website features an **interactive and responsive design**, highlighting icon
 1. **Clone this repository**  
    ```bash
    git clone (https://github.com/LauraMilly/Activity-EBAC-Pokemon)
+
+ ## 📬 Contact
+Developed by [Laura Souza].
+📧 Email: laauramirellydesouza@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/laura-souza-4a729b252/
+
+
