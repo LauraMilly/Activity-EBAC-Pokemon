@@ -3,7 +3,8 @@
 This is a **Landing Page about Pokémon**, developed as part of the **EBAC** course.  
 The website features an **interactive and responsive design**, highlighting iconic Pokémon characters.
 
-## 📸 [Pokemon-](https://github.com/user-attachments/assets/b32463fb-c578-4f36-8a6a-849aefbbb793)
+## 📸 ![Pokemon-](https://github.com/user-attachments/assets/f4ab2deb-9dc8-4c33-b275-b925737f46ea)
+
 
 
 
