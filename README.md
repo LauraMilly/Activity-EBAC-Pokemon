@@ -1,4 +1,4 @@
-#🚀 **Pokémon Themed Landing Page**
+## 🚀 **Pokémon Themed Landing Page**
 This project is a Pokémon-themed landing page created as part of an activity for the EBAC course. It showcases different Pokémon, their types, and their evolution stages in a visually appealing and interactive way.
 
 ---
@@ -40,13 +40,13 @@ Deploy: https://atividade-ebac-tau.vercel.app/
 
 or
 
--1️⃣ Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/LauraMilly/Activity-EBAC-Pokemon.git
 
--2️⃣ Navigate to the project directory
+2️⃣ Navigate to the project directory
 cd Activity-EBAC-Pokemon
 
--3️⃣ Open the index.html file in your browser
+3️⃣ Open the index.html file in your browser
 
 ---
 
